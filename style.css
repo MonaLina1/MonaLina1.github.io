@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    color:chocolate;
+
+}
+h2 {
+    color:coral
+}
+
+table, tr, td {
+background-color: bisque;
+color:black;
+}
+table {
+    border-spacing: 0px;
+    border-collapse: collapse;
+    margin: 20px;
+    border: 3px solid black;
+}
+td {
+    border: 1px solid black
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 3px;
+    paddig-bottom: 3px;
+}
+h3 {
+    color: brown;
+}
+.esimerkki {
+    color: coral;
+}
+
+.kokeilu {
+    font-style: italic;
+    color:aquamarine
+
+    
+}
+
+.jsharkkatyyli {
+    display: none;
+}
